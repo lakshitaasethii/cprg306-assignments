@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/week-7/page": "app/week-7/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/week-8/page": "app/week-8/page.js"
+}
